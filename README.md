@@ -2,15 +2,18 @@
 
 Small collection of Playwright example scripts used for learning and experimentation.
 
-Project structure
-- chapter_01_Basics: simple example scripts (JS)
-- chapter_02_Java_Concepts: placeholder for Java-related files
+## Project structure
+- chapter_01_Basics_Pramod: simple example scripts (JS)
+- chapter_02_Java_Concepts_Pramod: placeholder for Java-related files
+- ch01_basics: user's basic scripts
+- ch02_java: user's Java-related files
+- ch03_: placeholder
 
-Prerequisites
+## Prerequisites
 - Node.js (14+ recommended)
 - npm or yarn
 
-Quick start
+## Quick start
 1. Install dependencies (add Playwright if you want to run tests):
 
 ```bash
@@ -25,9 +28,9 @@ npx playwright install
 npx playwright test
 ```
 
-Notes
-- This repo currently contains example JS files under `chapter_01_Basics`.
+## Notes
+- This repo contains example JS files under chapter folders.
 - Add additional README details or scripts as you like.
 
-License
+## License
 - MIT
